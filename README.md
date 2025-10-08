@@ -1,3 +1,3 @@
-Twitter:[@toritoumii](https://twitter.com/toritoumii). 
+Flutter, TS, Python, Flutterflow
 
-bot, scraping, image processing, automation, etc.
+[X](https://x.com/um1b_)
